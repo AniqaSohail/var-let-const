@@ -1,1 +1,2 @@
-# var-let-const
+# variable scoping 
+    var-let-const
